@@ -36,11 +36,7 @@ Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar
 
 ---
 
-### 📧 Contato
+### 🌐 Contato
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandroabudjacob@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leandro-jacob)
-
----
-
-<p align="center">✨ Em constante evolução. Qualidade é o caminho, não o fim. 🚀</p>
+- 📧 **E-mail** - [leandroabudjacob@hotmail.com](mailto:leandroabudjacob@hotmail.com)
+- 💼 **LinkedIn** - [Leandro Jacob](https://www.linkedin.com/in/leandro-jacob)
