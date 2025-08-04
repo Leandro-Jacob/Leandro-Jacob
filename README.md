@@ -1,8 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Leandro Jacob</h1>
 
 <p align="center">
-🎯 QA focado em qualidade de ponta a ponta | Estratégia, processos e melhoria contínua<br>
-📍 São Paulo - SP
+Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar fluxos e garantir entregas com excelência. Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, de ponta a ponta.
 </p>
 
 ---
