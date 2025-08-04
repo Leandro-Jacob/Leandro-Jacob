@@ -1,55 +1,47 @@
-<h1 align="center">Olá! Eu sou o Leandro Jacob 👋</h1>
+<h1 align="center">👋 Olá! Eu sou o Leandro Jacob</h1>
 
 <p align="center">
-🎯 Analista de Qualidade de Software | Foco em Excelência e Entregas Confiáveis  
-📍 São Paulo - SP  
+🎯 QA focado em qualidade de ponta a ponta | Estratégia, processos e melhoria contínua<br>
+📍 São Paulo - SP
 </p>
 
 ---
 
-### ✨ Sobre mim
+## 🧠 Sobre mim
 
-Sou **Analista de Qualidade de Software**, com foco em estruturar processos, melhorar fluxos e garantir entregas com excelência. Minha paixão é enxergar a qualidade como um todo — dos testes à prevenção, de ponta a ponta.
-
-#### 🔍 O que me motiva:
-- QA com atuação sólida em múltiplas frentes de qualidade  
-- Estruturação de testes exploratórios, regressivos e E2E com foco em **cobertura e rastreabilidade**  
-- Condução de **Bug Reviews** com análise de logs e falhas  
-- Visão clara sobre a **pirâmide de testes** e práticas ponta a ponta  
-- Foco em **qualidade contínua**, não apenas em validação  
-
----
-
-### 🧰 Tecnologias e Ferramentas
-
-- **Ferramentas de QA:** Jira, Azure DevOps, Postman, Swagger, JMeter  
-- **Bancos de dados:** SQL Server, PostgreSQL  
-- **Testes:** Testes manuais, exploratórios, bug bashes  
-- **Metodologias:** Testes regressivos, E2E, análise de falhas  
+- 💡 <strong>QA estratégico</strong> com atuação sólida em múltiplas frentes de qualidade  
+- 🧪 Estruturação de testes <strong>exploratórios, regressivos e E2E</strong> com foco em cobertura e rastreabilidade  
+- 📋 Experiência com documentação e gestão de testes (ex: Jira, Azure DevOps)  
+- 🐞 Reuniões de <strong>Bug Review</strong> com foco em análise de falhas e logs  
+- 🧱 Familiaridade com a <strong>pirâmide de testes</strong> e visão ponta a ponta (test-end, to-end)  
+- 🕵️‍♂️ Conhecimento sólido em testes <strong>manuais, exploratórios e bug bashes</strong>  
+- 🔎 Foco em <strong>observabilidade</strong> e prevenção de falhas em produção  
+- 🧰 Ferramentas: Jira, Azure DevOps, SQL Server, PostgreSQL, Swagger, JMeter, Postman
 
 ---
 
-### 📈 Estatísticas GitHub
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Jacob&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Jacob&layout=compact&theme=github_dark" />
+<p>
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-Leandro%20Jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrojacob)](https://www.linkedin.com/in/leandrojacob)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandroabudjacob@hotmail.com)](mailto:leandroabudjacob@hotmail.com)
-
----
-
-### 🚀 Em breve:
-- Projetos voltados para automação de testes e qualidade contínua
-- Estudos e aplicações em CI/CD focado em QA
-- Compartilhamento de conhecimento com a comunidade!
+[![LinkedIn](https://img.shields.io/badge/-Leandro%20Jacob-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrojacob)](https://www.linkedin.com/in/leandrojacob)
+[![Email](https://img.shields.io/badge/-leandroabudjacob@hotmail.com-red?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:leandroabudjacob@hotmail.com)
 
 ---
 
-<p align="center">Feito com ❤️ por Leandro Jacob</p>
+<p align="center">✨ Em constante evolução. Qualidade é o caminho, não o fim. 🚀</p>
