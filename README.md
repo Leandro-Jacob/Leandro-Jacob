@@ -36,10 +36,10 @@ Sou Analista de Qualidade de Software com foco em estruturar processos, melhorar
 
 ---
 
-## 📫 Contato
+### 📧 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-Leandro%20Jacob-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrojacob)](https://www.linkedin.com/in/leandrojacob)
-[![Email](https://img.shields.io/badge/-leandroabudjacob@hotmail.com-red?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:leandroabudjacob@hotmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandroabudjacob@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leandro-jacob)
 
 ---
 
